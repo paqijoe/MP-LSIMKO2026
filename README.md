@@ -1,0 +1,2 @@
+# MP-LSIMKO2026
+apps
